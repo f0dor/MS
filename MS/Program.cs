@@ -10,7 +10,8 @@ namespace MS
     {
         static void Main(string[] args)
         {
-            dfkjd
+            Console.WriteLine("Novo");
+            Console.WriteLine("Hello, world!");
         }
     }
 }
