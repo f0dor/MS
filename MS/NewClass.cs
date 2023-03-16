@@ -13,4 +13,9 @@ namespace MS
             Console.WriteLine("Hello, world!");
         }
     }
+
+    class IdontKnow
+    {
+
+    }
 }
